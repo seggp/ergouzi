@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>二狗子瓜棚</title>
+    <link href="https://seggp.github.io/ergouzi/feed.xml" rel="self" />
+    <link href="https://seggp.github.io/ergouzi" />
+    <updated>2021-02-26T14:10:31+08:00</updated>
+    <author>
+        <name>宋二狗爱吃瓜</name>
+    </author>
+    <id>https://seggp.github.io/ergouzi</id>
+
+    <entry>
+        <title>1</title>
+        <author>
+            <name>宋二狗爱吃瓜</name>
+        </author>
+        <link href="https://seggp.github.io/ergouzi/1.html"/>
+        <id>https://seggp.github.io/ergouzi/1.html</id>
+
+        <updated>2021-02-26T14:10:31+08:00</updated>
+            <summary>
+                <![CDATA[
+                    1
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>1</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

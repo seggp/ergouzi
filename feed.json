@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "二狗子瓜棚",
+    "description": "",
+    "home_page_url": "https://seggp.github.io/ergouzi",
+    "feed_url": "https://seggp.github.io/ergouzi/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "宋二狗爱吃瓜"
+    },
+    "items": [
+        {
+            "id": "https://seggp.github.io/ergouzi/1.html",
+            "url": "https://seggp.github.io/ergouzi/1.html",
+            "title": "1",
+            "summary": "1",
+            "content_html": "<p>1</p>",
+            "author": {
+                "name": "宋二狗爱吃瓜"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-02-26T14:10:31+08:00",
+            "date_modified": "2021-02-26T14:10:31+08:00"
+        }
+    ]
+}
